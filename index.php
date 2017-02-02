@@ -7,8 +7,6 @@
 <body>
     <img src="banner.jpg" alt="">
 hello
-heloo
-hello
 hello
 </body>
 </html>
